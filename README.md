@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB codes and datasets used to generate the figures of the paper
 
- "Spontaneous stochasticity in the fluctuating Navier--Stokes equations on a logarithmic lattice"
+ > "Spontaneous stochasticity in the fluctuating Navier--Stokes equations on a logarithmic lattice"
 
 by E. P. Ortiz, C. S. Campolina, and A. A. Mailybaev.
 
