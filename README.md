@@ -14,6 +14,6 @@ by E. P. Ortiz, C. S. Campolina, and A. A. Mailybaev.
 
 - `PDF_regular_IC.m`: generates Figure 4, which shows the probability density functions (PDFs) corresponding to the regular initial condition case.
 
-- `VorticityNorm_regular_IC.m`: generates Figure 3, which shows the time evolution of the supremum norm of the vorticity for the Euler and Navier--Stokes equations with regular initial conditions.
+- `VorticityNorm_regular_IC.m`: generates Figure 3, which shows the time evolution of the supremum norm of the vorticity for the Euler and Navier--Stokes equations for the regular initial condition.
 
 - `tightfig.m`: auxiliary MATLAB function used by the previous scripts to improve the appearance and spacing of the figures.
